@@ -45,8 +45,8 @@ Add the following dependencies to your `pom.xml` if you're using Maven:
     <!-- Commons Collections -->
     <dependency>
         <groupId>commons-collections</groupId>
-        <artifactId>commons-collections</artifactId>
-        <version>3.2.2</version>
+        <artifactId>commons-collections4</artifactId>
+        <version>4.1</version>
     </dependency>
 
     <!-- Apache Commons Digester -->
@@ -54,13 +54,6 @@ Add the following dependencies to your `pom.xml` if you're using Maven:
         <groupId>commons-digester</groupId>
         <artifactId>commons-digester</artifactId>
         <version>2.1</version>
-    </dependency>
-
-    <!-- Apache Commons Lang -->
-    <dependency>
-        <groupId>org.apache.commons</groupId>
-        <artifactId>commons-collections4</artifactId>
-        <version>4.1</version>
     </dependency>
 
     <!-- OpenPDF -->
