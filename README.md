@@ -39,7 +39,7 @@ Add the following dependencies to your `pom.xml` if you're using Maven:
     <dependency>
         <groupId>commons-beanutils</groupId>
         <artifactId>commons-beanutils</artifactId>
-        <version>1.9.4</version>
+        <version>1.9.2</version>
     </dependency>
 
     <!-- Commons Collections -->
@@ -59,14 +59,14 @@ Add the following dependencies to your `pom.xml` if you're using Maven:
     <!-- Apache Commons Lang -->
     <dependency>
         <groupId>org.apache.commons</groupId>
-        <artifactId>commons-lang3</artifactId>
-        <version>3.12.0</version>
+        <artifactId>commons-collections4</artifactId>
+        <version>4.1</version>
     </dependency>
 
     <!-- OpenPDF -->
     <dependency>
         <groupId>com.github.librepdf</groupId>
         <artifactId>openpdf</artifactId>
-        <version>1.3.2</version>
+        <version>1.3.32</version>
     </dependency>
 </dependencies>
