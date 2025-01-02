@@ -1,6 +1,6 @@
 # PDF Report Generator
 
-This Java program demonstrates how to generate a report in PDF format using **JasperReports 7.0.1**. It features a simple user interface where users can load and fill a precompiled Jasper report document and export the result to a PDF file.
+This Java program demonstrates how to generate a report in PDF format using **JasperReports 7.0.1**. It features a simple user interface where an administrative user can load and fill a precompiled Jasper report document and export the result to a PDF file.
 
 ---
 
